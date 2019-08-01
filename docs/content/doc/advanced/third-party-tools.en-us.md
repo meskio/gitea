@@ -30,7 +30,7 @@ menu:
 
 
 ### Mobile
-[GitNex for Android](https://gitlab.com/mmarif4u/gitnex)
+[GitNex for Android](https://gitnex.com/)
 
 ###  Editor Extensions
  - [Gitea Extension for Visual Studio](https://github.com/maikebing/Gitea.VisualStudio)   Download from   [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio)
